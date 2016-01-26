@@ -13,6 +13,7 @@
 		DA41F90E1C57E5CE007D3042 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA41F90D1C57E5CE007D3042 /* Assets.xcassets */; };
 		DA41F9111C57E5CE007D3042 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA41F90F1C57E5CE007D3042 /* LaunchScreen.storyboard */; };
 		DA41F9191C57E9C2007D3042 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA41F9181C57E9C2007D3042 /* PersonCell.swift */; };
+		DA41F91B1C57F7CF007D3042 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA41F91A1C57F7CF007D3042 /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DA41F9101C57E5CE007D3042 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA41F9121C57E5CE007D3042 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA41F9181C57E9C2007D3042 /* PersonCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
+		DA41F91A1C57F7CF007D3042 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DA41F9061C57E5CE007D3042 /* AppDelegate.swift */,
 				DA41F9081C57E5CE007D3042 /* ViewController.swift */,
 				DA41F9181C57E9C2007D3042 /* PersonCell.swift */,
+				DA41F91A1C57F7CF007D3042 /* Person.swift */,
 				DA41F90A1C57E5CE007D3042 /* Main.storyboard */,
 				DA41F90D1C57E5CE007D3042 /* Assets.xcassets */,
 				DA41F90F1C57E5CE007D3042 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				DA41F9191C57E9C2007D3042 /* PersonCell.swift in Sources */,
 				DA41F9091C57E5CE007D3042 /* ViewController.swift in Sources */,
+				DA41F91B1C57F7CF007D3042 /* Person.swift in Sources */,
 				DA41F9071C57E5CE007D3042 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
