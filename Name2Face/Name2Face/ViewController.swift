@@ -98,7 +98,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             let newName = ac.textFields![0]
             person.name = newName.text!
             
-            self.collectionView.reloadData()x   
+            self.collectionView.reloadData()
             })
         
         presentViewController(ac, animated: true, completion: nil)
